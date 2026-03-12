@@ -1,4 +1,4 @@
-# Twitch Video Downloader
+# Twitch VOD Downloader
 
 A Python script that downloads videos from a Twitch channel using the Twitch API and `yt-dlp`.
 
